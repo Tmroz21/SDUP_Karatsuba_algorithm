@@ -1,0 +1,69 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+Czas: 0 | Stan: 0 | A:          0 | B:          0 | Wynik:                    0 | Gotowe: 0
+=== Test 1: Ma³e liczby ===
+Czas: 30000 | Stan: 0 | A:         15 | B:         12 | Wynik:                    0 | Gotowe: 0
+Czas: 35000 | Stan: 1 | A:         15 | B:         12 | Wynik:                    0 | Gotowe: 0
+Czas: 45000 | Stan: 2 | A:         15 | B:         12 | Wynik:                    0 | Gotowe: 0
+Czas: 65000 | Stan: 3 | A:         15 | B:         12 | Wynik:                    0 | Gotowe: 0
+Czas: 85000 | Stan: 4 | A:         15 | B:         12 | Wynik:                    0 | Gotowe: 0
+Czas: 115000 | Stan: 5 | A:         15 | B:         12 | Wynik:                    0 | Gotowe: 0
+Czas: 125000 | Stan: 6 | A:         15 | B:         12 | Wynik:                    0 | Gotowe: 0
+Czas: 135000 | Stan: 0 | A:         15 | B:         12 | Wynik:                  180 | Gotowe: 1
+POPRAWNE:         15 ×         12 =                  180 (cykle:          10)
+Czas: 145000 | Stan: 0 | A:         15 | B:         12 | Wynik:                  180 | Gotowe: 0
+=== Test 2: Œrednie liczby ===
+Czas: 160000 | Stan: 0 | A:        255 | B:        128 | Wynik:                  180 | Gotowe: 0
+Czas: 165000 | Stan: 1 | A:        255 | B:        128 | Wynik:                  180 | Gotowe: 0
+Czas: 175000 | Stan: 2 | A:        255 | B:        128 | Wynik:                  180 | Gotowe: 0
+Czas: 195000 | Stan: 3 | A:        255 | B:        128 | Wynik:                  180 | Gotowe: 0
+Czas: 215000 | Stan: 4 | A:        255 | B:        128 | Wynik:                  180 | Gotowe: 0
+Czas: 245000 | Stan: 5 | A:        255 | B:        128 | Wynik:                  180 | Gotowe: 0
+Czas: 255000 | Stan: 6 | A:        255 | B:        128 | Wynik:                  180 | Gotowe: 0
+Czas: 265000 | Stan: 0 | A:        255 | B:        128 | Wynik:                32640 | Gotowe: 1
+POPRAWNE:        255 ×        128 =                32640 (cykle:          10)
+Czas: 275000 | Stan: 0 | A:        255 | B:        128 | Wynik:                32640 | Gotowe: 0
+=== Test 3: Du¿e liczby ===
+Czas: 290000 | Stan: 0 | A:      65535 | B:      43690 | Wynik:                32640 | Gotowe: 0
+Czas: 295000 | Stan: 1 | A:      65535 | B:      43690 | Wynik:                32640 | Gotowe: 0
+Czas: 305000 | Stan: 2 | A:      65535 | B:      43690 | Wynik:                32640 | Gotowe: 0
+Czas: 325000 | Stan: 3 | A:      65535 | B:      43690 | Wynik:                32640 | Gotowe: 0
+Czas: 345000 | Stan: 4 | A:      65535 | B:      43690 | Wynik:                32640 | Gotowe: 0
+Czas: 375000 | Stan: 5 | A:      65535 | B:      43690 | Wynik:                32640 | Gotowe: 0
+Czas: 385000 | Stan: 6 | A:      65535 | B:      43690 | Wynik:                32640 | Gotowe: 0
+Czas: 395000 | Stan: 0 | A:      65535 | B:      43690 | Wynik:           2863224150 | Gotowe: 1
+POPRAWNE:      65535 ×      43690 =           2863224150 (cykle:          10)
+Czas: 405000 | Stan: 0 | A:      65535 | B:      43690 | Wynik:           2863224150 | Gotowe: 0
+=== Test 4: Przypadki graniczne ===
+Czas: 420000 | Stan: 0 | A:          0 | B:      12345 | Wynik:           2863224150 | Gotowe: 0
+Czas: 425000 | Stan: 1 | A:          0 | B:      12345 | Wynik:           2863224150 | Gotowe: 0
+Czas: 435000 | Stan: 2 | A:          0 | B:      12345 | Wynik:           2863224150 | Gotowe: 0
+Czas: 455000 | Stan: 3 | A:          0 | B:      12345 | Wynik:           2863224150 | Gotowe: 0
+Czas: 475000 | Stan: 4 | A:          0 | B:      12345 | Wynik:           2863224150 | Gotowe: 0
+Czas: 505000 | Stan: 5 | A:          0 | B:      12345 | Wynik:           2863224150 | Gotowe: 0
+Czas: 515000 | Stan: 6 | A:          0 | B:      12345 | Wynik:           2863224150 | Gotowe: 0
+Czas: 525000 | Stan: 0 | A:          0 | B:      12345 | Wynik:                    0 | Gotowe: 1
+POPRAWNE:          0 ×      12345 =                    0 (cykle:          10)
+Czas: 535000 | Stan: 0 | A:          0 | B:      12345 | Wynik:                    0 | Gotowe: 0
+Czas: 550000 | Stan: 0 | A:          1 | B:      67890 | Wynik:                    0 | Gotowe: 0
+Czas: 555000 | Stan: 1 | A:          1 | B:      67890 | Wynik:                    0 | Gotowe: 0
+Czas: 565000 | Stan: 2 | A:          1 | B:      67890 | Wynik:                    0 | Gotowe: 0
+Czas: 585000 | Stan: 3 | A:          1 | B:      67890 | Wynik:                    0 | Gotowe: 0
+Czas: 605000 | Stan: 4 | A:          1 | B:      67890 | Wynik:                    0 | Gotowe: 0
+Czas: 635000 | Stan: 5 | A:          1 | B:      67890 | Wynik:                    0 | Gotowe: 0
+Czas: 645000 | Stan: 6 | A:          1 | B:      67890 | Wynik:                    0 | Gotowe: 0
+Czas: 655000 | Stan: 0 | A:          1 | B:      67890 | Wynik:                67890 | Gotowe: 1
+POPRAWNE:          1 ×      67890 =                67890 (cykle:          10)
+Czas: 665000 | Stan: 0 | A:          1 | B:      67890 | Wynik:                67890 | Gotowe: 0
+Czas: 680000 | Stan: 0 | A: 4294967295 | B:          1 | Wynik:                67890 | Gotowe: 0
+Czas: 685000 | Stan: 1 | A: 4294967295 | B:          1 | Wynik:                67890 | Gotowe: 0
+Czas: 695000 | Stan: 2 | A: 4294967295 | B:          1 | Wynik:                67890 | Gotowe: 0
+Czas: 715000 | Stan: 3 | A: 4294967295 | B:          1 | Wynik:                67890 | Gotowe: 0
+Czas: 735000 | Stan: 4 | A: 4294967295 | B:          1 | Wynik:                67890 | Gotowe: 0
+Czas: 765000 | Stan: 5 | A: 4294967295 | B:          1 | Wynik:                67890 | Gotowe: 0
+Czas: 775000 | Stan: 6 | A: 4294967295 | B:          1 | Wynik:                67890 | Gotowe: 0
+Czas: 785000 | Stan: 0 | A: 4294967295 | B:          1 | Wynik:           4294967295 | Gotowe: 1
+POPRAWNE: 4294967295 ×          1 =           4294967295 (cykle:          10)
+Czas: 795000 | Stan: 0 | A: 4294967295 | B:          1 | Wynik:           4294967295 | Gotowe: 0
+=== Wszystkie testy zakoñczone ===
+$finish called at time : 810 ns : File "C:/Users/mrozt/Desktop/SDUP/SDUP_Karatsuba_algorithm/verilog/Karatsuba/Karatsuba.srcs/sim_1/new/karatsuba_multiplier_tb.v" Line 68

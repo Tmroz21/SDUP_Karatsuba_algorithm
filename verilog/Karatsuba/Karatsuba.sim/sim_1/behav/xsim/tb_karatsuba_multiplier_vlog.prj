@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Karatsuba.srcs/sources_1/new/karatsuba_multiplier.v" \
+"../../../../Karatsuba.srcs/sim_1/new/karatsuba_multiplier_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
